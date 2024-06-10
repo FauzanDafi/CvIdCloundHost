@@ -41,3 +41,9 @@ svg {
   left: 0;
   z-index: 1;
 }
+
+.card {
+  padding: 20px;
+}
+
+
