@@ -14,14 +14,24 @@ section {
 }
 
 #beranda,
-#keahlian,
-#kontak {
+#kelebihan-saya,
+#portofolio {
   background-color: #00cba9;
 }
 
+#keahlian,
 #tentang-saya,
-#portofolio {
+#kontak {
   background-color: #273036;
+}
+
+#tentang-saya,
+#kelebihan-saya,
+#keahliab,
+#portofolio,
+#kontak {
+  margin-top: -2rem;
+  z-index: 4;
 }
 
 svg {
